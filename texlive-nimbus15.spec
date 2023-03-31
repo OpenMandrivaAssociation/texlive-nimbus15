@@ -1,6 +1,6 @@
 Name:		texlive-nimbus15
 Version:	58839
-Release:	1
+Release:	2
 Summary:	Support files for Nimbus 2015 Core fonts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nimbus15
