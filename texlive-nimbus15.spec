@@ -3,7 +3,7 @@ Version:	58839
 Release:	2
 Summary:	Support files for Nimbus 2015 Core fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nimbus15
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nimbus15
 License:	other-free lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nimbus15.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nimbus15.doc.r%{version}.tar.xz
